@@ -8,6 +8,7 @@ if [ "$UID" -eq "$ROOT_UID" ]; then
   DEST_DIR="/usr/share/icons"
 else
   DEST_DIR="$HOME/.local/share/icons"
+  mkdir -p "${DEST_DIR}"
 fi
 
 rm -rf $DEST_DIR/Graphite-light-cursors
