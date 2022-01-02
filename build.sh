@@ -85,11 +85,13 @@ function create {
 	cd "$PWD"
 
 	echo -ne "Generating Theme Index...\\r"
-	INDEX="$OUTPUT/../index.theme"
-	if [ ! -e "$OUTPUT/../$INDEX" ]; then
-		touch "$INDEX"
-		echo -e "[Icon Theme]\nName=$THEME\n" > "$INDEX"
-	fi
+	INDEX="$BUILD/index.theme"
+	rm -rf "$INDEX"
+	echo "[Icon Theme]" >> "$INDEX"
+	echo "Name=${THEME}" >> "$INDEX"
+	echo "Name[x-test]=xx${THEME}xx" >> "$INDEX"
+	echo "Comment=${THEME}" >> "$INDEX"
+	echo "Comment[x-test]=${THEME}" >> "$INDEX"
 	echo -e "Generating Theme Index... DONE"
 }
 

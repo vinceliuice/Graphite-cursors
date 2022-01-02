@@ -1,3 +1,5 @@
 [Icon Theme]
 Name=Graphite light nord Cursors
-
+Name[x-test]=xxGraphite light nord Cursorsxx
+Comment=Graphite light nord Cursors
+Comment[x-test]=Graphite light nord Cursors

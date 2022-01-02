@@ -74,3 +74,10 @@ default size-fdiag
 default size-hor
 default size-ver
 default top_left_arrow
+ew-resize size_hor
+ns-resize size_ver
+size-bdiag default
+size-fdiag default
+size-hor default
+size-ver default
+top_left_arrow default
