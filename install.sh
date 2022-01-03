@@ -27,7 +27,7 @@ then
   select yn in "Yes" "No"; do
     case $yn in
         Yes ) echo 'export XCURSOR_PATH=${XCURSOR_PATH}:~/.local/share/icons' >> ~/.bash_profile; break;;
-        No ) exit;;
+        No ) break;;
     esac
 done
 fi
