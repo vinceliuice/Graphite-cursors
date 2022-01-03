@@ -21,5 +21,8 @@ cp -r dist-dark $DEST_DIR/Graphite-dark-cursors
 cp -r dist-light-nord $DEST_DIR/Graphite-light-nord-cursors
 cp -r dist-dark-nord $DEST_DIR/Graphite-dark-nord-cursors
 
+# if $XDG_SESSION_TYPE == 'wayland' :
+#  echo 'export XCURSOR_PATH=${XCURSOR_PATH}:~/.local/share/icons' | ~/.bash_profile
+
 echo "Finished..."
 
