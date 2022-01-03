@@ -21,8 +21,16 @@ cp -r dist-dark $DEST_DIR/Graphite-dark-cursors
 cp -r dist-light-nord $DEST_DIR/Graphite-light-nord-cursors
 cp -r dist-dark-nord $DEST_DIR/Graphite-dark-nord-cursors
 
-# if $XDG_SESSION_TYPE == 'wayland' :
-#  echo 'export XCURSOR_PATH=${XCURSOR_PATH}:~/.local/share/icons' | ~/.bash_profile
+if [[ $XDG_SESSION_TYPE = "wayland" ]]
+then
+  echo "Add XWayland compatibility to .bash_profile?"
+  select yn in "Yes" "No"; do
+    case $yn in
+        Yes ) echo 'export XCURSOR_PATH=${XCURSOR_PATH}:~/.local/share/icons' >> ~/.bash_profile; break;;
+        No ) exit;;
+    esac
+done
+fi
 
 echo "Finished..."
 
