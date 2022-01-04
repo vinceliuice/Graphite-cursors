@@ -26,7 +26,7 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#3b4252"
+     pagecolor="#2b303b"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -76,7 +76,7 @@
        d="M 4.7734375,4.012801 A 2.0002,2.0002 0 0 0 4.2128906,4.1612385 2.0002,2.0002 0 0 0 3,5.9991291 L 2.99805,19.852645 v 0.148437 a 2.0002,2.0002 0 0 0 0.011719,0.02148 c 6.017e-4,1.070163 0.2115103,2.129604 0.6289063,3.115234 a 2.0002,2.0002 0 0 0 0.00195,0.0078 c 1.7302483,4.039631 6.4642757,5.933374 10.5039057,4.203125 4.03963,-1.730248 5.935327,-6.462323 4.205078,-10.501953 a 2.0002,2.0002 0 0 0 -0.002,-0.002 c -0.426144,-0.992047 -1.048621,-1.887774 -1.830078,-2.632812 -0.01941,-0.01886 -0.03899,-0.03798 -0.05859,-0.05664 L 6.3789062,4.5518635 A 2.0002,2.0002 0 0 0 4.7734375,4.012801 Z" />
     <path
        id="path1791"
-       style="fill:#ffffff;fill-opacity:1;stroke:#3b4252;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:#2b303b;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 5,5 -0.0024,13.854367 -2.8e-5,0.148746 0.0072,-0.0031 a 6,6 0 0 0 0.474968,2.359001 6,6 0 0 0 7.877713,3.153038 6,6 0 0 0 3.153037,-7.877713 6,6 0 0 0 -1.372653,-1.974505 6,6 0 0 0 -0.05795,-0.05592 z" />
     <path
        id="path1187"

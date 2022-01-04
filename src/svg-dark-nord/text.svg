@@ -26,7 +26,7 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#e5e9f0"
+     pagecolor="#dbdee5"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -84,11 +84,11 @@
      d="m 13,7 a 2.0002,2.0002 0 0 0 -2,2 v 0.9999997 a 2.0002,2.0002 0 0 0 2,2.0000013 V 21 a 2.0002,2.0002 0 0 0 -2,2 v 1 a 2.0002,2.0002 0 0 0 2,2 h 5 a 2.0002,2.0002 0 0 0 2,-2 V 23 A 2.0002,2.0002 0 0 0 18,21 V 12.000001 A 2.0002,2.0002 0 0 0 20,9.9999997 V 9 A 2.0002,2.0002 0 0 0 18,7 Z"
      id="path1170" />
   <path
-     style="color:#000000;fill:#e5e9f0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     style="color:#000000;fill:#dbdee5;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
      d="m 13,5.9609375 a 2.0002,2.0002 0 0 0 -2,2 v 1 a 2.0002,2.0002 0 0 0 2,2.0000005 v 8.999999 a 2.0002,2.0002 0 0 0 -2,2 v 1 a 2.0002,2.0002 0 0 0 2,2 h 5 a 2.0002,2.0002 0 0 0 2,-2 v -1 a 2.0002,2.0002 0 0 0 -2,-2 v -8.999999 a 2.0002,2.0002 0 0 0 2,-2.0000005 v -1 a 2.0002,2.0002 0 0 0 -2,-2 z"
      id="path1086" />
   <path
-     style="color:#000000;fill:#434c5e;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     style="color:#000000;fill:#252a33;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
      d="m 13,7.96 v 1 h 2 v 13 h -2 v 1 h 5 v -1 h -2 v -13 h 2 v -1 z"
      id="path1084" />
 </svg>

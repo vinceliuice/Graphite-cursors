@@ -26,7 +26,7 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#3b4252"
+     pagecolor="#2b303b"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -76,7 +76,7 @@
   <path
      d="m 16,7.9622 c -0.554,0 -1,0.446 -1,1 v 3.1113 l -1,-0.11133 v -2 c 0,-0.554 -0.446,-1 -1,-1 -0.554,0 -1,0.446 -1,1 v 6 h -1 c 0,-0.554 -0.446,-1 -1,-1 -0.554,0 -1,0.446 -1,1 v 5 c 0,0.1385 0.027656,0.27091 0.078125,0.39062 0.050682,0.12022 0.12394,0.2258 0.21484,0.31641 0.18066,0.18008 0.43062,0.29297 0.70703,0.29297 h 2.8789 0.30078 7.8203 c 2,0 2,-2 2,-2 v -8 c 0,-0.554 -0.446,-1 -1,-1 -0.554,0 -1,0.446 -1,1 v 0.77734 l -1,-0.11133 v -2.666 c 0,-0.554 -0.446,-1 -1,-1 -0.554,0 -1,0.446 -1,1 v 2.4434 l -1,-0.11133 v -3.332 c 0,-0.554 -0.446,-1 -1,-1 z"
      id="path914"
-     style="fill:#282a33;stroke:#3b4252;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+     style="fill:#282a33;stroke:#2b303b;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="csccsssccssssssccscsssccsssccscc" />
   <path
@@ -89,7 +89,7 @@
      d="m 11,13.9622 v 4 h 1 v -4 z"
      id="path16"
      inkscape:connector-curvature="0"
-     style="fill:#3b4252;enable-background:new" />
+     style="fill:#2b303b;enable-background:new" />
   <rect
      x="4"
      y="3.9622245"
